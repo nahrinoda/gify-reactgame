@@ -1,0 +1,27 @@
+.navbar{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* background-color: #fecc32; */
+  background-color: #a9f1978c;
+  color:rgb(47, 43, 255);
+  justify-content: center;
+}
+h1, #score{
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+h1{
+  font-size:48px;
+}
+#score{
+  font-size: 24px;
+}
+#directions{
+  text-align: center;
+  font-size:18px;
+  margin-top:10px;
+}
+.guess{
+  height:36px;
+  justify-content: center;
+  color:black;
+}
