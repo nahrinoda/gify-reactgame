@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "83125558c56b46cb4e80",
+    "revision": "e929bdced846a559696e",
     "url": "/gify-reactgame/static/css/main.1c768391.chunk.css"
   },
   {
-    "revision": "83125558c56b46cb4e80",
-    "url": "/gify-reactgame/static/js/main.83125558.chunk.js"
+    "revision": "e929bdced846a559696e",
+    "url": "/gify-reactgame/static/js/main.e929bdce.chunk.js"
   },
   {
     "revision": "4c6dc1f2fde3e77db660",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/gify-reactgame/static/js/runtime~main.ae45ecc6.js"
   },
   {
-    "revision": "703bcfe14962cd745c0ad194bf2c75f5",
+    "revision": "93e9bf87aea71a2e8e335aea15813fcf",
     "url": "/gify-reactgame/index.html"
   }
 ];
